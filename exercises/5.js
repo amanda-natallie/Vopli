@@ -10,3 +10,5 @@ function myFunction (number) {
     }}
 
   myFunction();
+
+  //3
