@@ -5,3 +5,5 @@ function myFunction(number, percentage) {
    return (number)*(percentage/100)
 }
 myFunction();
+
+//1
