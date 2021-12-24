@@ -6,4 +6,6 @@ function myFunction(number, percentage) {
 }
 myFunction();
 
+console.log(myFunction(100, 10))
+
 //1
