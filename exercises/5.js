@@ -10,5 +10,5 @@ function myFunction (number) {
     }}
 
   myFunction();
-  console.log(myFunction(20.9))
+  console.log(myFunction(20))
   //3
