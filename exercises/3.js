@@ -17,5 +17,6 @@ function character (str, substr) {
 }
 
 character ("o rato roeu a roupa do rei de Roma", "o")
+console.log(character("o rato roeu a roupa do rei de Roma", "o"))
 
 //5
