@@ -2,7 +2,13 @@
 // If the number is a whole number (has no decimal place), return true
 // Otherwise, return false
 
-function myFunction() {
+function myFunction (number) {
+  if (number == Math.floor(number)) {
+      return true
+    } else {
+      return false
+    }}
 
-  return
-}
+  myFunction();
+  console.log(myFunction(20.4))
+  //3

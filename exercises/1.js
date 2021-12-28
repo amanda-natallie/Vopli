@@ -1,7 +1,11 @@
 // Write a function that takes an object with the properties number and percentage as argument
 // Return the given percentage of the number
 
-function myFunction() {
-
-  return
+function myFunction(number, percentage) {
+   return (number)*(percentage/100)
 }
+myFunction();
+
+console.log(myFunction(100, 10))
+
+//1
